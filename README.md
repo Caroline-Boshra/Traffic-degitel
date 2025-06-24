@@ -1,5 +1,5 @@
 # Traffic-degitel
-TrafficDigital2 is a PHP-based backend system built for managing team members and receiving client messages via RESTful APIs. It uses native PHP with JWT authentication for securing admin routes and supports image uploads for staff members.
+TrafficDigital is a PHP-based backend system built for managing team members and receiving client messages via RESTful APIs. It uses native PHP with JWT authentication for securing admin routes and supports image uploads for staff members.
 TrafficDigital2 - Admin & Client Management API (PHP)
 TrafficDigital2 is a clean and organized back-end project built with PHP and MySQL, designed for managing staff and client data for a digital agency or studio.
 It provides a full RESTful API structure for admin authentication, staff management, and client contact submissions.
